@@ -9,7 +9,7 @@ pip3 install .
 
 之后在 ~/.zshrc 加入
 
-```
+```zsh
 source ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/pinyin-completion/shell/pinyin-comp.zsh
 ```
 
