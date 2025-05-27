@@ -1,9 +1,0 @@
-README
-pinyin-comp
-setup.py
-pinyin/__init__.py
-pinyin/pinyin_initial.py
-pinyin_comp.egg-info/PKG-INFO
-pinyin_comp.egg-info/SOURCES.txt
-pinyin_comp.egg-info/dependency_links.txt
-pinyin_comp.egg-info/top_level.txt
