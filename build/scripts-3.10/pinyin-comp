@@ -1,4 +1,4 @@
-#!/opt/anaconda3/envs/py310/bin/python3
+#!python
 # -*- coding:utf-8 -*-
 """
 complete path by acronym of pinyin initials

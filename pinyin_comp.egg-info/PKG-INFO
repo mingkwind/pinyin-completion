@@ -1,0 +1,11 @@
+Metadata-Version: 2.2
+Name: pinyin-comp
+Version: 0.1
+Summary: complete path containing Chinese by pinyin acronym
+Home-page: http://www.github.com/adaptee/pinyin-comp
+Author: Jekyll Wu
+Author-email: adaptee@gmail.com
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: summary
